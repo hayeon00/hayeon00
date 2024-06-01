@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+Education
+🏫 Sejong University
+👩🏻‍🎓 Software Department
+
+
 🥈Baekjoon🥈
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hayeon00)](https://solved.ac/백준아이디/)
