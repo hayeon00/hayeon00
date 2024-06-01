@@ -1,9 +1,5 @@
 ## Hi there 👋
 
-Education
-🏫 Sejong University
-👩🏻‍🎓 Software Department
-
 
 🥈Baekjoon🥈
 
