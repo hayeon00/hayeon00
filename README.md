@@ -1,10 +1,6 @@
 ## Hi there 👋
 
 
-Baekjoon🥇
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hayeon00)](https://solved.ac/백준아이디/)
-
 <!--
 **hayeon00/hayeon00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
