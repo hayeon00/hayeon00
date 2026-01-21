@@ -1,7 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=Cylinder&color=auto&height=150&section=header&text=Hayeon_Profile&fontSize=90)
 
-## Hi there :grin:
-
 
 
 ## 소개
@@ -23,6 +21,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hayeon00&layout=compact)](https://github.com/hayeon00/github-readme-stats)
 
-
-![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=gy011003)
+#### :thought_balloon: 🥈백준🥈
+![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hayeon00)
 
