@@ -4,7 +4,6 @@
 
 ## 💭 소개
 #### :school: Sejong Univ <br>
-#### :thought_balloon: 백엔드 개발자가 되자.
 
 
 ## 🛠 기술 스택
