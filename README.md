@@ -1,7 +1,6 @@
 # 👋 Hi, I'm Hayeon Kim
 ### Backend Developer | Java & Spring
 
-🎓 Sejong University  
 끊임없이 배우고 성장하는 백엔드 개발자를 목표로 합니다.
 
 ---
@@ -9,6 +8,7 @@
 ## 🙋‍♀️ About Me
 
 - 🎓 **Sejong University — Dept. of Software (20)**
+- 🏫 **멀티캠퍼스** - 백엔드 개발자 부트캠프 수료
 - 💻 **Backend Developer (Java / Spring)**
 - 🤖 **AI & LLM 기반 서비스 개발 관심**
 - 🌱 새로운 기술을 배우고 적용하는 것을 좋아합니다.
