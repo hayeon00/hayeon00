@@ -3,7 +3,7 @@
 
 Java와 Spring 기반 백엔드 개발에 관심이 있으며  
 AI / LLM 서비스 개발에도 흥미를 가지고 있습니다.  
-끊임없이 배우고 성장하는 백엔드 개발자를 목표로 합니다.
+끊임없이 배우고 성장하는 백엔드 개발자를 목표로 합니다. 🌱
 
 ---
 
@@ -29,7 +29,8 @@ AI / LLM 서비스 개발에도 흥미를 가지고 있습니다.
 ## 📊 GitHub Stats
 
 <img src="https://github-readme-stats.vercel.app/api?username=hayeon00&show_icons=true" height="150"/> 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hayeon00&layout=compact" height="150"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hayeon00&layout=compact" height="150"/> 
+<img src="https://streak-stats.demolab.com?user=hayeon00" height="150"/>
 
 ---
 
