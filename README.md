@@ -28,13 +28,8 @@ AI / LLM 서비스 개발에도 흥미를 가지고 있습니다.
 
 ## 📊 GitHub Stats
 
-<div align="center">
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=hayeon00&show_icons=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hayeon00&layout=compact)
-
-</div>
+<img src="https://github-readme-stats.vercel.app/api?username=hayeon00&show_icons=true" height="150"/> 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hayeon00&layout=compact" height="150"/>
 
 ---
 
